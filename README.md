@@ -36,3 +36,5 @@ pip install pandas emoji matplotlib numpy wordcloud
 - Tap on contact name/group name on the top to see the details
 - Scroll down to find "Export Chat" menu
 - Choose "Without Media"
+
+To see interactive storyboard in the notebook [use this link](https://nbviewer.jupyter.org/github/hdev7/Whatsapp-text-analyzer/blob/master/text%20analysis.ipynb)
