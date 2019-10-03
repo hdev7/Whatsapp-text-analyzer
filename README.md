@@ -18,7 +18,7 @@ The script reads an exported WhatsApp chat and tries to vizualize insights that 
 
 
 ### Requirements
-- Python 2.7+ or Python 3
+- Python
 ```python
 pip install pandas emoji matplotlib numpy wordcloud 
 ```
