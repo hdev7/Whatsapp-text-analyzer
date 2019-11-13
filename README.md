@@ -2,6 +2,8 @@
 
 The script reads an exported WhatsApp chat and tries to vizualize insights that are mined from the data.
 
+To see interactive storyboard in the notebook [use this link](https://nbviewer.jupyter.org/github/hdev7/Whatsapp-text-analyzer/blob/master/text%20analysis.ipynb)
+
 ### What's in store
 - Feature extraction from unstructed data using Regex
 - Working with Emojicons
@@ -37,4 +39,4 @@ pip install pandas emoji matplotlib numpy wordcloud
 - Scroll down to find "Export Chat" menu
 - Choose "Without Media"
 
-To see interactive storyboard in the notebook [use this link](https://nbviewer.jupyter.org/github/hdev7/Whatsapp-text-analyzer/blob/master/text%20analysis.ipynb)
+
