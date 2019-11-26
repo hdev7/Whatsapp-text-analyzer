@@ -5,11 +5,11 @@ The script reads an exported WhatsApp chat and tries to vizualize insights that 
 To see interactive storyboard in the notebook [use this link](https://nbviewer.jupyter.org/github/hdev7/Whatsapp-text-analyzer/blob/master/text%20analysis.ipynb)
 
 ### What's in store
-- Feature extraction from unstructed data using Regex
-- Working with Emojicons
+- Feature extraction from unstructured data using Regex
+- Working with Emoticons
 - Word tokenizing and removing stop words
-- Using WordCloud 
-- Vizual story via tableau
+- Using WordCloud
+- Visual story via tableau
 - Currently support below chat pattern:
  ```python
     "14/10/18, 11:16 - Contact Name: this is a message"
